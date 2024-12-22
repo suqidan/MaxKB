@@ -1,11 +1,1 @@
-// A simple TypeScript Hello World program
-
-function sayHello(name: string = "World"): string {
-    return `Hello, ${name}!`;
-}
-
-// Print the greeting
-console.log(sayHello());
-
-// You can also greet a specific name
-console.log(sayHello("TypeScript"));
+Ly8gQSBzaW1wbGUgVHlwZVNjcmlwdCBIZWxsbyBXb3JsZCBwcm9ncmFtCgpmdW5jdGlvbiBzYXlIZWxsbyhuYW1lOiBzdHJpbmcgPSAiV29ybGQiKTogc3RyaW5nIHsKICAgIHJldHVybiBgSGVsbG8sICR7bmFtZX0hYDsKfQoKLy8gUHJpbnQgdGhlIGdyZWV0aW5nCmNvbnNvbGUubG9nKHNheUhlbGxvKCkpOwoKLy8gWW91IGNhbiBhbHNvIGdyZWV0IGEgc3BlY2lmaWMgbmFtZQpjb25zb2xlLmxvZyhzYXlIZWxsbygiVHlwZVNjcmlwdCIpKTs=
